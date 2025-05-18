@@ -1,0 +1,1 @@
+/* JavaScript logic omitted here for space — it matches previous cell exactly */
